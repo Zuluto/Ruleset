@@ -1,6 +1,8 @@
 # > Apple TV
 DOMAIN,linear.tv.apple.com
 DOMAIN,play-edge.itunes.apple.com
+DOMAIN-SUFFIX,hls.itunes.apple.com
+DOMAIN-SUFFIX,hls-amt.itunes.apple.com
 # > Netflix
 USER-AGENT,Argo*
 DOMAIN-SUFFIX,netflix.com
