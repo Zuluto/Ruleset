@@ -49,3 +49,6 @@ DOMAIN,youtubei.googleapis.com
 DOMAIN,yt3.ggpht.com
 # > Misc Website
 DOMAIN-SUFFIX,casetify.com
+DOMAIN-SUFFIX,xboxlive.com
+DOMAIN-SUFFIX,mircosoft.com
+DOMAIN-SUFFIX,gamepass.com
