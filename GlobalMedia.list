@@ -47,3 +47,5 @@ DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN,youtubei.googleapis.com
 DOMAIN,yt3.ggpht.com
+# > Misc Website
+DOMAIN-SUFFIX,casetify.com
