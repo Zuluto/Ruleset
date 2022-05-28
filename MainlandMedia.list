@@ -13,11 +13,13 @@ DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,im9.com
 DOMAIN-SUFFIX,smtcdns.net
+
 # > Netease Cloud Music
 DOMAIN-SUFFIX,music.163.com
 DOMAIN-SUFFIX,music.126.net
 DOMAIN,mam.netease.com
 DOMAIN,api.iplay.163.com
+
 # > QQ Music
 DOMAIN-SUFFIX,music.qq.com
 DOMAIN-SUFFIX,music.tc.qq.com
@@ -26,3 +28,6 @@ DOMAIN-SUFFIX,tencentmusic.com
 DOMAIN-SUFFIX,y.qq.com
 DOMAIN,aqqmusic.tc.qq.com
 DOMAIN,moo.qq.com
+
+# > Misc Website
+DOMAIN-KEYWORD,libtorrent,DIRECT
