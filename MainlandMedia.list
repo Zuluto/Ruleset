@@ -27,5 +27,6 @@ DOMAIN-SUFFIX,y.qq.com
 DOMAIN,aqqmusic.tc.qq.com
 DOMAIN,moo.qq.com
 # > Misc Website
-DOMAIN-KEYWORD,libtorrent,DIRECT
+DOMAIN-KEYWORD,libtorrent
+DOMAIN-KEYWORD,csair
 DOMAIN,cloud.culturedcode.com
