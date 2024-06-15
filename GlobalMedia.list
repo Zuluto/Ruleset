@@ -54,4 +54,4 @@ DOMAIN-SUFFIX,mircosoft.com
 DOMAIN-SUFFIX,gamepass.com
 DOMAIN,tu.totheglory.im
 DOMAIN-KEYWORD,spendee
-DOMAIN-KEYWORD,walletconnect.org
+DOMAIN,1.bridge.walletconnect.org:443
