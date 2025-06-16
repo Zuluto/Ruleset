@@ -26,6 +26,12 @@ DOMAIN-SUFFIX,tencentmusic.com
 DOMAIN-SUFFIX,y.qq.com
 DOMAIN,aqqmusic.tc.qq.com
 DOMAIN,moo.qq.com
+# > Rednote
+DOMAIN-SUFFIX,fengkongcloud.com
+DOMAIN-SUFFIX,xhscdn.com
+DOMAIN-SUFFIX,xhscdn.net
+DOMAIN-SUFFIX,xiaohongshu.com
+
 # > Misc Website
 DOMAIN-KEYWORD,libtorrent
 DOMAIN-KEYWORD,csair
